@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-postprocess_spikes_isi_group.py
+postprocess_spikes_isi_supplement.py
 
-Postprocessing script for paper-style ISI plots averaged across animals.
+Postprocessing script for ISI plots averaged across animals.
 
 Workflow
 --------
