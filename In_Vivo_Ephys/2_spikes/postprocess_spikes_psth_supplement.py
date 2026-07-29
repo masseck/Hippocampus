@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-postprocess_spikes_psth_mainfigure.py
+postprocess_spikes_psth_supplement.py
 
-Postprocessing script for main-figure PSTH analysis.
+Postprocessing script for PSTH analysis.
 
 Outputs
 -------
